@@ -1,0 +1,6 @@
+{
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20160622202520",
+    "watch": "registry:dt/watch#0.0.0+20160316155526"
+  }
+}
